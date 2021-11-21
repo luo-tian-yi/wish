@@ -4,7 +4,7 @@
 抽卡模拟器中设定的概率为《原神》公示概率，具体算法为作者自行设定，不等同于游戏中的实际概率。
 抽卡结果仅供娱乐，切勿当真。
 如有疑问请联系作者
-个人网站：https:www.luotianyi.press
+个人网站：https://www.luotianyi.press
 邮箱：luotianyi@luotianyi.shop
 其他下载地址:https://www.luotianyi.press/home
 原神抽卡模拟器「赤团开时」
